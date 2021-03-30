@@ -1,8 +1,19 @@
 ### Hi there 👋
 
-<!--
-**auredysanchez/auredysanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## Module 1
+Intro to javascript. The best 8 weeks of my life.
+
+```javascript
+// this sets an empty array variable //
+let arr = []
+
+```
+
+## Module 2
+Intro to html, css, and the DOM
+
+```
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +24,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
