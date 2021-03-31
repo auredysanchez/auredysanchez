@@ -15,6 +15,8 @@ Intro to html, css, and the DOM
 
 ![image](https://carnivora.ca/images/dogs/carnivora-dogs.jpg)
 
+![demo](https://user-images.githubusercontent.com/75195254/113071750-670c2000-9193-11eb-9155-7a17c508638c.gif)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
